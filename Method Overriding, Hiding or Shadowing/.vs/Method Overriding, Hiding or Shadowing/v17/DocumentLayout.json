@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aaaOBS Studio Recodings\\Git Uploads\\Csharp_Basic_Codes\\Method Overriding, Hiding or Shadowing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CF20F0-F7B4-4D1D-B151-338E8FB7231B}|Method Overriding, Hiding or Shadowing\\Method Overriding, Hiding or Shadowing.csproj|d:\\aaaobs studio recodings\\git uploads\\csharp_basic_codes\\method overriding, hiding or shadowing\\method overriding, hiding or shadowing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CF20F0-F7B4-4D1D-B151-338E8FB7231B}|Method Overriding, Hiding or Shadowing\\Method Overriding, Hiding or Shadowing.csproj|solutionrelative:method overriding, hiding or shadowing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aaaOBS Studio Recodings\\Git Uploads\\Csharp_Basic_Codes\\Method Overriding, Hiding or Shadowing\\Method Overriding, Hiding or Shadowing\\Program.cs",
+              "RelativeDocumentMoniker": "Method Overriding, Hiding or Shadowing\\Program.cs",
+              "ToolTip": "D:\\aaaOBS Studio Recodings\\Git Uploads\\Csharp_Basic_Codes\\Method Overriding, Hiding or Shadowing\\Method Overriding, Hiding or Shadowing\\Program.cs",
+              "RelativeToolTip": "Method Overriding, Hiding or Shadowing\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T21:23:06.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
